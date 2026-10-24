@@ -1,0 +1,8 @@
+00:03:22 Автоподбор: только ALT, ALT2–ALT13
+00:03:24 Проверяется: general (ALT).bat
+00:03:27 OK https://www.youtube.com/generate_204
+00:03:27 OK https://www.youtube.com/favicon.ico
+00:03:27 OK https://discord.com/api/v10/gateway
+00:03:27 OK https://updates.discord.com/distributions/app/manifests/latest?channel=stable&platform=win&arch=x64
+00:03:27 Выбран: general (ALT).bat
+00:03:27 HTTP-проверки пройдены. Проверьте Discord; голос этими проверками не тестируется.
